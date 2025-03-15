@@ -1,4 +1,3 @@
-package isp.lab3.exercise6;
 
 import java.util.Scanner;
 
